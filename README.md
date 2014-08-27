@@ -1,4 +1,4 @@
-spawncamping-adventure
+
 ======================
 
 Auto responder en Ensignia
